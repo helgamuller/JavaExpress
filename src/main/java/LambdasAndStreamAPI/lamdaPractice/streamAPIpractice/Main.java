@@ -1,4 +1,4 @@
-package streamAPIpractice;
+package LambdasAndStreamAPI.lamdaPractice.streamAPIpractice;
 
 import java.util.Arrays;
 import java.util.Comparator;

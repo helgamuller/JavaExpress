@@ -1,4 +1,4 @@
-package lamdaPractice;
+package LambdasAndStreamAPI.lamdaPractice;
 
 import java.util.function.*;
 
